@@ -16,12 +16,11 @@ Esta é uma simples calculadora de Índice de Massa Corporal (IMC) implementada 
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/WallanDavid/Calculadora-IMC-Python.git
     cd seu-repositorio
     ```
 
 2. Execute o script:
-
     ```bash
     python calculadora_imc.py
     ```
